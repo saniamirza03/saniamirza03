@@ -1,6 +1,6 @@
 # About Sania  
 
-<img align="right" src="https://buffy.mlpforums.com/imageproxy/giphy.gif.2105620126cc7266d840e0116ed7853f.gif" width="350px" alt="coding gif" />
+<!-- <img align="right" src="https://buffy.mlpforums.com/imageproxy/giphy.gif.2105620126cc7266d840e0116ed7853f.gif" width="350px" alt="coding gif" /> -->
 
 ### A Web Developer, UI/UX Designer, Flutter Developer and Database Enthusiast  
 
