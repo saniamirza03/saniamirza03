@@ -1,4 +1,4 @@
-# About Sania  
+# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&pause=1000&color=F751D7&width=500&lines=Hi+there!+I'm+Sania+-+Web+Developer;Hi+there!+I'm+Sania+-+App+Developer;Hi+there!+I'm+Sania+-+Graphic+Designer;Hi+there!+I'm+Sania+-+Database+Developer" alt="Typing SVG" /></a>
 
 <!-- <img align="right" src="https://buffy.mlpforums.com/imageproxy/giphy.gif.2105620126cc7266d840e0116ed7853f.gif" width="350px" alt="coding gif" /> -->
 
