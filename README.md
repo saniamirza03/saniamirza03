@@ -33,7 +33,7 @@
 
 ---
 
-### 🛠️ Languages  
+### 🛠️ Tools & Technologies  
 <p align="left">
 <img alt="Html" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
@@ -42,4 +42,6 @@
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto">
 <img alt="c#" src="https://img.shields.io/badge/C%23-68217a?style=for-the-badge">
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=Firebase&logoSize=auto">
+<img alt="Figma" src="https://img.shields.io/badge/Figma-FF00FF?style=for-the-badge&logo=Figma&logoColor=white&logoSize=auto">
 </p>
