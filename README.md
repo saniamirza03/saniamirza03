@@ -41,4 +41,5 @@
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white">
 <img alt="SQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white&logoSize=auto">
+<img alt="c#" src="https://img.shields.io/badge/C%23-68217a?style=for-the-badge">
 </p>
