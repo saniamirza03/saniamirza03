@@ -2,10 +2,9 @@
 
 <!-- <img align="right" src="https://buffy.mlpforums.com/imageproxy/giphy.gif.2105620126cc7266d840e0116ed7853f.gif" width="350px" alt="coding gif" /> -->
 
-### A Web Developer, UI/UX Designer, Flutter Developer and Database Enthusiast  
+### A Web Developer, UI/UX Designer and Database Enthusiast  
 
 - 🌐 Skilled in building responsive and user-friendly websites with modern web technologies  
-- 🤖 Proficient in developing cross-platform mobile applications with Flutter  
 - ⍣ ೋ Experienced in crafting intuitive UI/UX designs using Figma  
 - 🛢️ Strong understanding of database design, optimization, and management (MySQL, SQL Server)  
 - 💻 Always eager to learn new technologies and improve development workflows  
