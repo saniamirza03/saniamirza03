@@ -14,8 +14,6 @@
 
 ### 🌟 Interests  
 - 📚 Reading Books  
-- 📺 Watching Series  
-- ✏️ Drawing and Designing  
 
 ---
 
